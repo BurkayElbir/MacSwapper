@@ -12,3 +12,6 @@ Going back to original MAC:
 python3 MacSwap.py -i eth0 -o
 
 this tool creates a json file to store your original mac address.
+
+
+Warning! Creator of this repository doesn't responsible of any illegal actions, these tools are made for educational purposes only.
